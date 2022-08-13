@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Dusty
 - 👀 I’m interested in Information Technology, Digital Forensics, Cyber Security
-- 🌱 I’m currently learning A+, DNS, DHCP, ADDS, Networking, IP/TCP, Troubleshooting, Cyber Security.
+- 🌱 I’m currently learning A+, DNS, DHCP, ADDS, Networking, TCP/IP, Troubleshooting, Cyber Security, Office 365
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
