@@ -1,4 +1,4 @@
-<h1>Hi, I'm Dusty! <br/><a href="https://github.com/jdcarlyle1317">Aspiring IT Professional</a>, >Tech Enthusiast</h1>a>
+<h1>Hi, I'm Dusty! <br/><a href="https://github.com/jdcarlyle1317">Aspiring IT Professional</a>, Tech Enthusiast</h1>a>
 
 <h2>Projects:</h2>
 
