@@ -4,7 +4,8 @@
 
 - [Active Directory Home Lab](https://github.com/jdcarlyle1317/AD_PS)
 
-- Certifications | CompTIA A+
+<h2>Certifications:</h2>
+ CompTIA A+
 
 
 <h2></h2>
